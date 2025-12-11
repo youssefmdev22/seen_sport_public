@@ -5,15 +5,6 @@ Seen Sport is an Android application for discovering and watching live sports ma
 Seen Sport fetches live data from a remote REST API to display today’s matches grouped by league, available TV channels, and interactive competitions.​
 Users can open matches or channels via an external video player app and receive Firebase push notifications with rich images when new content or updates are available.​
 
-# 📸 Screenshots
-| Matches | Channels | Competitions |
-| ------------ | ------------ | ------------ |
-| <img src="screenshots/matches.png" alt="Matches" width="200"/> | <img src="screenshots/channels.png" alt="Channels" width="200"/> | <img src="screenshots/competitions.png" alt="Competitions" width="200"/> |
-
-| More | Competition Locked | Dark & Light Mode |
-| ------------ | ------------ | ------------ |
-| <img src="screenshots/more.png" alt="More" width="200"/> | <img src="screenshots/competitions_lock.png" alt="CompetitionLocked" width="200"/> | <img src="screenshots/dark_light_mode.gif" alt="DarkLightMode" width="200"/> |
-
 # 🛠️ Tech Stack
 - Platform: Native Android (Java)​
 - Architecture style: Fragments + Adapters + Data Models (MVVM-like separation on data/UI)​
@@ -72,6 +63,15 @@ Setup
 Run
 - Choose a device/emulator (API 27+ recommended, supports notification permission and EdgeToEdge).​
 - Click Run in Android Studio to install and launch the app.​
+
+# 📸 Screenshots
+| Matches | Channels | Competitions |
+| ------------ | ------------ | ------------ |
+| <img src="screenshots/matches.png" alt="Matches" width="200"/> | <img src="screenshots/channels.png" alt="Channels" width="200"/> | <img src="screenshots/competitions.png" alt="Competitions" width="200"/> |
+
+| More | Competition Locked | Dark & Light Mode |
+| ------------ | ------------ | ------------ |
+| <img src="screenshots/more.png" alt="More" width="200"/> | <img src="screenshots/competitions_lock.png" alt="CompetitionLocked" width="200"/> | <img src="screenshots/dark_light_mode.gif" alt="DarkLightMode" width="200"/> |
 
 # 🔗 Social Links
 * GitHub: [youssefmdev22](https://github.com/youssefmdev22)
